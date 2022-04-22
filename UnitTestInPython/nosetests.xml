@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite name="nosetests" tests="7" errors="0" failures="0" skip="0"><testcase classname="test_calculatorApp.TestCalculate" name="test_AddPass" time="0.000"><system-out><![CDATA[Setup .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_calculate" time="0.001"><system-out><![CDATA[Setup .. 
+inputs can not be null
+You can't divide by zero!
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_division" time="0.000"><system-out><![CDATA[Setup .. 
+You can't divide by zero!
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_isExist" time="0.000"><system-out><![CDATA[Setup .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_multiplication" time="0.000"><system-out><![CDATA[Setup .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_substraction" time="0.000"><system-out><![CDATA[Setup .. 
+]]></system-out></testcase><testcase classname="test_calculatorApp.TestCalculate" name="test_user_input" time="0.000"><system-out><![CDATA[Setup .. 
+Input can't be empty
+w input is not a number!
+]]></system-out></testcase></testsuite>
